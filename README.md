@@ -168,31 +168,24 @@ WHERE
 example tables for below Q5 subquestions: 
 
 **Table A**    
-```
-id| name
----- | ----
-1 | a
-2 | b
-3 | c
-4 | d
-5 | e
-```
----|--- 
-id |name
-1	|a 	 
-2	|b   
-3	|c  
-4	|d   
-5	|e   
 
-|Table B|
+|id   | name |
+|---- | ---- |
+|1 | a |
+|2 | b |
+|3 | c |
+|4 | d |
+|5 | e | 
+
+**Table B**
+
+|id | name |
 |----|----|
-id 	| name
-1	|	p
-2	|	q
-3	|	a
-4	|	b
-5	|	r
+|1	|	p |
+|2	|	q |
+|3	|	a |
+|4	|	b |
+|5	|	r |
 
 
 _LEFT JOIN EXAMPLE_:
