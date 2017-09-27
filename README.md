@@ -168,6 +168,7 @@ WHERE
 example tables for below Q5 subquestions: 
 
 **Table A**    
+```
 id| name
 ---- | ----
 1 | a
@@ -175,7 +176,7 @@ id| name
 3 | c
 4 | d
 5 | e
-Content in the first column | Content in the second column
+```
 ---|--- 
 id |name
 1	|a 	 
