@@ -167,14 +167,14 @@ WHERE
 
 example tables for below Q5 subquestions: 
 
-|Table A |   
-|---|--- | 	
-|id |name|
-|1	|a 	 |
-|2	|b   |
-|3	|c   |
-|4	|d   |
-|5	|e   |
+**Table A**    
+---|--- 
+id |name
+1	|a 	 
+2	|b   
+3	|c  
+4	|d   
+5	|e   
 
 |Table B|
 |----|----|
